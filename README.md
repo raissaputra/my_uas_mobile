@@ -7,7 +7,7 @@ repo ini akan terus di update secara bertahap.
 * Database :
 * Web Service :
 ## Dokumentasi Video :
-* Link Video :
+* Link Video : https://youtu.be/pqejE9F10Y8
 ## Dokumentasi Screenshot :
 * ![img](https://github.com/raissaputra/my_uas_mobile/blob/main/app/src/main/res/drawable/splash.png)
 * ![img](https://github.com/raissaputra/my_uas_mobile/blob/main/app/src/main/res/drawable/i_material.png)
