@@ -9,4 +9,9 @@ repo ini akan terus di update secara bertahap.
 ## Dokumentasi Video :
 * Link Video :
 ## Dokumentasi Screenshot :
+* ![img](https://github.com/raissaputra/my_uas_mobile/blob/main/app/src/main/res/drawable/splash.png)
+* ![img](https://github.com/raissaputra/my_uas_mobile/blob/main/app/src/main/res/drawable/i_material.png)
+* ![img](https://github.com/raissaputra/my_uas_mobile/blob/main/app/src/main/res/drawable/i_prod.png)
+* ![img](https://github.com/raissaputra/my_uas_mobile/blob/main/app/src/main/res/drawable/input.png)
+* ![img](https://github.com/raissaputra/my_uas_mobile/blob/main/app/src/main/res/drawable/ubah.png)
 
