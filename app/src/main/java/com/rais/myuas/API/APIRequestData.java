@@ -15,10 +15,7 @@ public interface APIRequestData {
     @FormUrlEncoded
     @POST("create.php")
     Call<ResponseModel> ardCreateData(
-            @Field("customer") String customer,
-            @Field("part_name") String part_name,
-            @Field("part_code") String part_code
-    );
+            String customer , String part_name , String part_code);
 
     @FormUrlEncoded
     @POST("delete.php")
