@@ -12,7 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyUas"
         android:usesCleartextTraffic="true">
-        <activity android:name=".Activity.Add"></activity>
         <activity
             android:name=".Activity.UbahActivity"
             android:parentActivityName=".Activity.MainActivity" />
